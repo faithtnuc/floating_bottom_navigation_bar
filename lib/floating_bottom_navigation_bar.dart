@@ -15,7 +15,7 @@ class FloatingBottomNavigationBar extends StatelessWidget {
     this.selectedColorOpacity,
     this.itemShape = const StadiumBorder(),
     this.margin = const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
-    this.itemPadding = const EdgeInsets.symmetric(vertical: 14, horizontal: 16),
+    this.itemPadding = const EdgeInsets.symmetric(vertical: 14, horizontal: 18),
     this.duration = const Duration(milliseconds: 500),
     this.curve = Curves.easeOutQuint,
     this.borderColor,
